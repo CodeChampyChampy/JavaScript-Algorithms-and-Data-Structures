@@ -1,0 +1,5 @@
+const myList = [["egg", 4], ["strawberry", 3], ["apple", 4], ["flour", 50], ["sugar", 2]];
+
+/* these lists refer to my 9 on scratch project for the cs 50
+ (cs50 studio created by _champy)
+ */
