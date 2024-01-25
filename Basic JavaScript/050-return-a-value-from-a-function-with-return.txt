@@ -1,0 +1,6 @@
+function timesFive(num) {
+  return num * 5;
+}
+
+const myValue = timesFive(5)
+console.log(myValue)
